@@ -1,0 +1,11 @@
+adjacent to vertex 0 ? 
+1,2,5,6
+
+adjacent to vertex 7 ?
+8
+
+adjacent to vertex 9 ?
+10,11,12
+
+adjacent to vertex 13 ?
+null
